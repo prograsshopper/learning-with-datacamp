@@ -1,2 +1,1 @@
-# data-engineering-datacamp
-Learn data engineering skills with Datacamp
+Learn skills with Datacamp
